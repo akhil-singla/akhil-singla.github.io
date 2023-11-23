@@ -18,24 +18,24 @@ Akhil Singla is a PhD candidate at Northwestern University. My research interest
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+            Akhil Singla<br/>
+            Email: akhilsingla@u.northwestern.edu<br/>
         </div>
 
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+                  title="Akhil Singla" alt="Akhil"/></a>
         </div>
     </div>
 </div>
-
+https://www.linkedin.com/in/akhilsingla/
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
+          <li><a href="https://github.com/akhil-singla">GitHub</a></li>
+          <li><a href="https://twitter.com/dog_feelings">Linkedin (@AkhilSingla)</a></li>
       </ul>
   </div>
 </div>
